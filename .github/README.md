@@ -1,3 +1,8 @@
+<p align="left"> </p>
+
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+<a href="https://standardjs.com"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Standard - \Matlab Style Guide"></a>
+
 # Fairness vs. Distributional Shift
 ## Table Contents
 * [Project Description](#PD)
@@ -13,10 +18,9 @@ Ensuring fairness mechanisms have been proposed to quantitatively expose veiling
 <a id = "OJ"></a>
 ## Objectives
 
-## Collaborators
-
 ## Aknowledgement
-
-## Reference
+We would like to thank Responsible AI Hull Research Group and DAIM at University of Hull for their support.
 
 ## License
+This framework is available under an MIT License.
+
