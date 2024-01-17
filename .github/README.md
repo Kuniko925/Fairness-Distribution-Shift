@@ -8,7 +8,7 @@
 * [Project Description](#PD)
 * [Objectives](OJ)
 * [Collaborators](CO)
-* [Aknowledgement](CO)
+* [Aknowledgement]
 * [License]
 <a id = "PD"></a>
 ## Project Description
@@ -19,6 +19,11 @@ Ensuring fairness mechanisms have been proposed to quantitatively expose veiling
 * Indetify the skin color distribution correlate with fairness metrics in skin lesion classification.
 * Identify the correlation affect diagnostic accuracy and reliability across diverse skin color.
 * Compare the fairness assurance degradation to skin color types and skin color distribution.
+
+<a id = "CO"></a>
+## Collaborators
+Kuniko Paxton
+Dr Koorosh Aslansefat
 
 ## Aknowledgement
 We would like to thank Responsible AI Hull Research Group and DAIM at University of Hull for their support.
